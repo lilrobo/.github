@@ -24,8 +24,8 @@ We create tech that connects:
 
 | Project | Focus | Status |
 |---------|-------|--------|
-| [Lilrobo](https://lilrobo.xyz) | NFC (Python/.NET) | 🚀 Active |
-| [CrateNFC]([./crate-nfc](https://lilrobo.xyz/pages/cratenfc)) | NFC Mobile App and Backend | 🚀 Active |
+| [Lilrobo](https://lilrobo.xyz) | Homepage / E-Commerce | 🚀 Active |
+| [CrateNFC]([./crate-nfc](https://lilrobo.xyz/pages/cratenfc)) | NFC Mobile App | 🚀 Active |
 | [Cardano](https://aiken-lang.org/) | Aiken Contracts | 🌟 Exploring |
 | [Web Dev](https://astro.build/) | Astro Sites | 🌟 Starting |
 | [Karaokio](https://github.com/karaokio) | Karaoke Tools (Python) | 🛠️ Revamping |
